@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/landing/static/css/main.ce897de8.css",
+    "main.js": "/landing/static/js/main.a4af8e08.js",
+    "static/media/illustration-flowing-conversation.svg": "/landing/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/landing/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/landing/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/footer-logo.svg": "/landing/static/media/footer-logo.f11308b5a1504c326ada625e49f1f395.svg",
+    "static/media/logo.svg": "/landing/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/illustration-mockups.svg": "/landing/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "index.html": "/landing/index.html",
+    "static/media/icon-phone.svg": "/landing/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/landing/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/landing/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "main.ce897de8.css.map": "/landing/static/css/main.ce897de8.css.map",
+    "main.a4af8e08.js.map": "/landing/static/js/main.a4af8e08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce897de8.css",
+    "static/js/main.a4af8e08.js"
+  ]
+}
